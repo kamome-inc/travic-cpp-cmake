@@ -1,4 +1,4 @@
-# Лабораторная работа № 1
+# Лабораторная работа № 1  [![Build Status](https://travis-ci.org/kamome-inc/travic-cpp-cmake.svg?branch=master)](https://travis-ci.org/kamome-inc/travic-cpp-cmake)
 
 ## Задание
   please RUN!
